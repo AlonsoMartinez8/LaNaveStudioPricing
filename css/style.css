@@ -133,6 +133,9 @@ body {
     text-align: center;
     font-size: 1.4em;
   }
+  & p {
+    width: 70%;
+  }
 }
 
 span.price {
